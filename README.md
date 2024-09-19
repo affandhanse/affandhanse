@@ -11,7 +11,7 @@ Some of my key projects include:
 - Developing **ArtNook**, a platform that fosters creativity and artistic expression through workshops and private events.
 - Working on a **URL Shortener** service to showcase technical problem-solving.
 
-I'm always learning and excited about exploring new tools and technologies, with a current focus on mastering **Angular** and building web apps with payment integrations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/affan-dhanse-75347b1a0) or check out some of my repos below.
+I'm always learning and excited about exploring new tools and technologies, with a current focus on mastering **Angular** and building web apps with payment integrations. Feel free to connect with me on [LinkedIn](affan-dhanse-75347b1a0) or check out some of my repos below.
 
 
 ## 🌐 Socials:
